@@ -1,0 +1,120 @@
+# hardikydv88.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Valmo – Building Communities, Creating Futures</title>
+  <style>
+    body { font-family: 'Segoe UI', Arial, sans-serif; margin:0; color:#222; background:#fafbfc;}
+    header { background:#1e293b; color:#fff; padding:40px 0; text-align:center;}
+    nav { background:#0f172a; display:flex; justify-content:center;}
+    nav a { color:#fff; padding:14px 18px; text-decoration:none; font-weight:400;}
+    nav a:hover { background:#3b82f6;}
+    .section { max-width:980px; margin:40px auto 0; background:#fff; box-shadow:0 2px 10px #e5e7eb; border-radius:8px; padding:34px 24px;}
+    .banner { font-size:1.6em; margin-bottom:18px; font-weight:500; color:#3b82f6;}
+    .cta { display:inline-block; background:#2563eb; color:#fff; padding:13px 30px; font-weight:bold; border-radius:5px; text-decoration:none; margin-top:15px;}
+    h2 { color:#2563eb; }
+    ul { margin:14px 0 0 20px;}
+    li { margin:8px 0;}
+    footer { background:#1e293b; color:#fff; text-align:center; padding:17px;}
+    .contact span { display:block; margin:2px 0;}
+    @media (max-width:650px) {
+      .section {padding:16px 6px;}
+      header {padding:30px 0;}
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Valmo</h1>
+    <div class="banner">Building Communities, Creating Futures.</div>
+    <a href="#work" class="cta">Explore Our Work</a>
+  </header>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Us</a>
+    <a href="#divisions">Our Divisions</a>
+    <a href="#foundation">Valmo Foundation</a>
+    <a href="#school-projects">School Projects</a>
+    <a href="#vision">Vision & Mission</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <section class="section" id="about">
+    <h2>About Us</h2>
+    <div class="banner">Growth with Responsibility.</div>
+    <p>Valmo is a multifaceted organization working across infrastructure, hospitality, healthcare, and retail, with investments in education, culture, and social responsibility.</p>
+    <ul>
+      <li><strong>Mission:</strong> To create sustainable, inclusive, and impactful projects that benefit people and communities.</li>
+      <li><strong>Vision:</strong> To be a trusted leader in infrastructure and social development, building spaces that empower lives.</li>
+    </ul>
+    <a href="#about" class="cta">Know More About Us</a>
+  </section>
+  <section class="section" id="divisions">
+    <h2>Valmo Hospitality & Development Ltd.</h2>
+    <div class="banner">Modern Living, Smarter Cities.</div>
+    <ul>
+      <li>🏘️ <b>Township Development:</b> Integrated residential & commercial hubs.</li>
+      <li>💻 <b>IT & Commercial Spaces:</b> Business parks and office hubs.</li>
+      <li>🏨 <b>Hotels & Resorts:</b> Comfort, luxury, and cultural hospitality.</li>
+      <li>🌿 <b>Healive (Healthcare Projects):</b> Health & wellness focus.</li>
+      <li>🏙️ <b>LA Era (Premium Living):</b> Eco-friendly luxury housing.</li>
+      <li>⚕️ <b>Pharma & Hospitals:</b> Advanced hospitals & pharma infrastructure.</li>
+      <li>🛍️ <b>Trading & Retailing:</b> Retail malls & markets.</li>
+      <li>🎡 <b>Spots & City Development:</b> All-in-one lifestyle complexes.</li>
+    </ul>
+    <a href="#projects" class="cta">Discover Our Projects</a>
+  </section>
+  <section class="section" id="foundation">
+    <h2>Valmo Foundation</h2>
+    <div class="banner">For People. For Culture. For the Future.</div>
+    <ul>
+      <li>🛕 Temples – Preserving culture and spirituality.</li>
+      <li>🎭 Clubs & Recreational Spaces – Community bonding and youth development.</li>
+      <li>🎓 School Projects – Preparing students for life.</li>
+    </ul>
+    <a href="#foundation" class="cta">Support Our Initiatives</a>
+  </section>
+  <section class="section" id="school-projects">
+    <h2>Valmo Foundation – School Projects</h2>
+    <div class="banner">Shaping Students, Building Leaders.</div>
+    <ul>
+      <li>📚 Academic Excellence</li>
+      <li>👨‍👩‍👧 Family & Community Engagement</li>
+      <li>🥗 Food & Canteen Services</li>
+      <li>🎨 Creativity & Arts</li>
+      <li>🗣️ Leadership & Clubs</li>
+      <li>⚽ Sports Development</li>
+      <li>🚌 Transport & Safety</li>
+      <li>🌍 Green Campus</li>
+      <li>🔧 Skill Development</li>
+      <li>⚕️ Pharma & Industrial Education</li>
+      <li>🎡 Carnivals & Fairs</li>
+      <li>💻 Technology & Innovation Labs</li>
+      <li>🧘 Mental Health & Wellness</li>
+      <li>🌐 Global Exposure</li>
+      <li>♻️ Eco-Friendly Learning</li>
+    </ul>
+    <a href="#school-projects" class="cta">Explore School Projects</a>
+  </section>
+  <section class="section" id="vision">
+    <h2>Vision & Mission</h2>
+    <div class="banner">Progress with Purpose.</div>
+    <ul>
+      <li><strong>Vision:</strong> Be a trusted leader in infrastructure and social development, empowering communities through sustainable spaces.</li>
+      <li><strong>Mission:</strong> Deliver impactful projects in hospitality, healthcare, education, and community development while balancing economic growth and social good.</li>
+    </ul>
+  </section>
+  <section class="section contact" id="contact">
+    <h2>Contact Us</h2>
+    <span>📞 Phone: +91 8591001005</span>
+    <span>✉️ Email: samrat.valmo@gmail.com</span>
+    <span>📍 Address: 8A, Bindal Time Square, Dhakoli</span>
+    <a href="mailto:samrat.valmo@gmail.com" class="cta">Get in Touch</a>
+    <a href="#partner" class="cta">Partner With Us</a>
+  </section>
+  <footer>
+    &copy; 2025 Valmo. All rights reserved.
+  </footer>
+</body>
+</html>
